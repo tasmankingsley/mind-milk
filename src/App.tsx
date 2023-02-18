@@ -8,6 +8,11 @@ function App() {
     <div className="App">
       <h1>mind milk</h1>
       <h2>write your thoughts</h2>
+
+      <label for="font">Font: </label>
+      <select name='font'>
+        <option>Helvetica</option>
+      </select>
       <Content/>
     </div>
   )
