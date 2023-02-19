@@ -12,6 +12,7 @@ function App() {
       <label for="font">Font: </label>
       <select name='font'>
         <option>Helvetica</option>
+        <option>Roboto Mono</option>
       </select>
       <Content/>
     </div>
